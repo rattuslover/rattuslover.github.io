@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: rgb(255,30,10);
+}
+
+h2{
+    color: #00ff00;
+}
+
+h3{
+    color: #00ff00;
+}
+
+.button_size{
+    height: 50px;
+    width: 100px;
+}
